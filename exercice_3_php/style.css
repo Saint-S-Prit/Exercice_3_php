@@ -1,0 +1,68 @@
+.fiel1
+{
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    color: #000;
+    text-align: center;
+}
+.fiel2
+{
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    color: #000;
+}
+
+input[type= "text"]
+{
+    width: 60%;
+    height: 40px;
+}
+.valider
+{
+    background: blue;
+    color: #FFF;
+    border: none;
+    width: 100px;
+    height: 45px;
+    border-radius: 10px;
+}
+.annuler
+{
+    background: red;
+    color: #FFF;
+    border: none;
+    width: 100px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+.erreurs
+{
+    color: red;
+    font-weight: bold;
+}
+
+.resultat
+{
+    background: green;
+    color: #FFF;
+    border: none;
+    width: 200px;
+    height: 45px;
+    margin-left: 100px;
+
+}
+
+.resultat_final
+{
+    text-align: center;
+    font-size: 25px;
+    word-spacing: 10px;
+}
+
+.nombre_m
+{
+    background: rgb(110, 253, 153);
+}
